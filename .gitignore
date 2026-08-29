@@ -27,6 +27,13 @@ outputs/*.csv
 # your experiments live in work/; datasets never enter git
 work/**/*.csv
 
+# --- Activity Log (collaboration memory) -----------------------------------
+# This is our shared context/memory system - never commit to avoid clutter
+activity-log/
+generate_eda_part*.py
+verify_alignment.py
+generate_activity_log_index.py
+
 # --- Python / notebooks ----------------------------------------------------
 __pycache__/
 *.py[cod]
