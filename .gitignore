@@ -34,18 +34,6 @@ generate_eda_part*.py
 verify_alignment.py
 generate_activity_log_index.py
 
-AGENTS.md
-CLAUDE.md
-GUIDE.md
-SETUP.md
-docs/
-skills/
-
-README_PORTFOLIO.md
-README_starter_backup.md
-
-
-
 # --- Python / notebooks ----------------------------------------------------
 __pycache__/
 *.py[cod]
